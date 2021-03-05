@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Staffing-solution/static/css/main.f866e787.chunk.css",
+    "main.js": "/Staffing-solution/static/js/main.60c8bc75.chunk.js",
+    "main.js.map": "/Staffing-solution/static/js/main.60c8bc75.chunk.js.map",
+    "runtime-main.js": "/Staffing-solution/static/js/runtime-main.af981d68.js",
+    "runtime-main.js.map": "/Staffing-solution/static/js/runtime-main.af981d68.js.map",
+    "static/css/2.78afd4a5.chunk.css": "/Staffing-solution/static/css/2.78afd4a5.chunk.css",
+    "static/js/2.249c82a2.chunk.js": "/Staffing-solution/static/js/2.249c82a2.chunk.js",
+    "static/js/2.249c82a2.chunk.js.map": "/Staffing-solution/static/js/2.249c82a2.chunk.js.map",
+    "index.html": "/Staffing-solution/index.html",
+    "static/css/2.78afd4a5.chunk.css.map": "/Staffing-solution/static/css/2.78afd4a5.chunk.css.map",
+    "static/css/main.f866e787.chunk.css.map": "/Staffing-solution/static/css/main.f866e787.chunk.css.map",
+    "static/js/2.249c82a2.chunk.js.LICENSE.txt": "/Staffing-solution/static/js/2.249c82a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af981d68.js",
+    "static/css/2.78afd4a5.chunk.css",
+    "static/js/2.249c82a2.chunk.js",
+    "static/css/main.f866e787.chunk.css",
+    "static/js/main.60c8bc75.chunk.js"
+  ]
+}
